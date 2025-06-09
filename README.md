@@ -30,7 +30,9 @@
             </div>
         </div>
     </main>
-</header>
+    <footer>
+        <p>&copy; 2025 My Website. All Rigths Reserved</p>
+    </footer>
 
 
 
