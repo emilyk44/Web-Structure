@@ -31,7 +31,7 @@
         </div>
     </main>
     <footer>
-        <p>&copy; 2025 My Website. All Rigths Reserved</p>
+        <p>&copy; 2025 My Website. All Rights Reserved</p>
     </footer>
 
 
